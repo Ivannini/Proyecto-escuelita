@@ -1,3 +1,49 @@
+# Sistema de Administración de Alumnos
+
+Este proyecto permite gestionar alumnos, incluyendo su creación, edición, eliminación y visualización.
+
+## 📌 Requerimientos
+
+- PHP 8.x
+- Composer
+- MySQL o SQLite
+- Node.js y NPM (opcional, si usas Laravel Mix para assets)
+
+## 📥 Instalación
+
+1. Clonar el repositorio:  
+   ```bash
+   git clone https://github.com/Ivannini/Proyecto-escuelita.git
+   cd Proyecto-escuelita
+
+Si **usas otro framework** (Django, Express, etc.), necesitarías documentar los pasos equivalentes. Pero si sigues con Laravel, este `README.md` **ya cubre lo necesario**. 🚀
+
+Capturas:
+
+- Screenshot de ejecución de test
+
+![image](https://github.com/user-attachments/assets/88049f2e-3e51-41a3-844d-5c55c48c78bb)
+
+![image](https://github.com/user-attachments/assets/6675227b-b77f-4ddd-a3f6-af7a72d154af)
+
+![image](https://github.com/user-attachments/assets/b74b8a05-4e54-4e9c-b160-77fada79b94a)
+
+![image](https://github.com/user-attachments/assets/ffce77b3-4ddf-42e7-b0a0-477d3f9459ea)
+
+![image](https://github.com/user-attachments/assets/a225a88c-5da2-4cbc-b126-159f59b06dbe)
+
+![image](https://github.com/user-attachments/assets/bae7f22f-56cc-45f9-9407-701758c472da)
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
