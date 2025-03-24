@@ -24,6 +24,8 @@ Capturas:
   
 <img width="959" alt="Captura del test" src="https://github.com/user-attachments/assets/62a23c54-89ea-4a62-8dd5-53a4e8ca8e29" />
 
+![captura test 2](https://github.com/user-attachments/assets/0dacb325-f11f-49d2-8a86-0b318bb1c029)
+
 - Lista de alumnos
   
 ![captura 1](https://github.com/user-attachments/assets/8bd23ed1-bccc-45ad-b012-1e32f2efb109)
