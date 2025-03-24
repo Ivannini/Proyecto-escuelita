@@ -32,7 +32,7 @@ Capturas:
 
 ![image](https://github.com/user-attachments/assets/ffce77b3-4ddf-42e7-b0a0-477d3f9459ea)
 
-![image](https://github.com/user-attachments/assets/a225a88c-5da2-4cbc-b126-159f59b06dbe)
+![image](https://github.com/user-attachments/assets/c2c8390b-89d0-4dfa-b266-751c891a9eb8)
 
 ![image](https://github.com/user-attachments/assets/bae7f22f-56cc-45f9-9407-701758c472da)
 
