@@ -21,20 +21,20 @@ Si **usas otro framework** (Django, Express, etc.), necesitarías documentar los
 Capturas:
 
 - Screenshot de ejecución de test
-
-![image](https://github.com/user-attachments/assets/2394a440-d600-47de-9fca-914234761d19)
+  
+<img width="959" alt="Captura del test" src="https://github.com/user-attachments/assets/62a23c54-89ea-4a62-8dd5-53a4e8ca8e29" />
 
 - Lista de alumnos
+  
+![captura 1](https://github.com/user-attachments/assets/8bd23ed1-bccc-45ad-b012-1e32f2efb109)
 
-![image](https://github.com/user-attachments/assets/21d7b22b-b2fe-4327-9b18-60ed202b5c88)
+![captura 2](https://github.com/user-attachments/assets/35ffe774-8491-4da2-9996-83c7c57bd85f)
 
-![image](https://github.com/user-attachments/assets/b74b8a05-4e54-4e9c-b160-77fada79b94a)
+![captura 3](https://github.com/user-attachments/assets/46d7acd4-4bb8-41a0-a0cb-d7455d813461)
 
-![image](https://github.com/user-attachments/assets/ffce77b3-4ddf-42e7-b0a0-477d3f9459ea)
+![captura 4](https://github.com/user-attachments/assets/451f49af-4051-430d-a0a4-60b648b3987e)
 
-![image](https://github.com/user-attachments/assets/c2c8390b-89d0-4dfa-b266-751c891a9eb8)
-
-![image](https://github.com/user-attachments/assets/d095e743-32e0-4726-9d3e-22557ad45600)
+![captura 5](https://github.com/user-attachments/assets/266cf933-b744-4130-92fc-eaf3feda7cda)
 
 
 
