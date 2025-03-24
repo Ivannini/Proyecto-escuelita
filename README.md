@@ -34,7 +34,8 @@ Capturas:
 
 ![image](https://github.com/user-attachments/assets/c2c8390b-89d0-4dfa-b266-751c891a9eb8)
 
-![image](https://github.com/user-attachments/assets/bae7f22f-56cc-45f9-9407-701758c472da)
+![image](https://github.com/user-attachments/assets/d095e743-32e0-4726-9d3e-22557ad45600)
+
 
 
 
