@@ -5,7 +5,7 @@ use Tests\TestCase;
 use App\Models\Alumno;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 
-class AlumnoControllerTest extends TestCase
+class AlumnoControllerTest2 extends TestCase
 {
     use RefreshDatabase; // Limpia la base de datos antes de cada prueba
 

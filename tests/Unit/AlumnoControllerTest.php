@@ -2,15 +2,16 @@
 
 namespace Tests\Feature;
 
+use PHPUnit\Framework\Attributes\Test;
+use Tests\TestCase;
 use App\Models\Alumno;
 use Illuminate\Foundation\Testing\RefreshDatabase;
-use Tests\TestCase;
 
 class AlumnoControllerTest extends TestCase
 {
     use RefreshDatabase;
 
-    /** @test */
+    #[TEST]
     public function se_listan_alumnos()
     {
         Alumno::factory()->count(2)->create();
@@ -19,7 +20,7 @@ class AlumnoControllerTest extends TestCase
         $response->assertSeeText('Listado de Alumnos');
     }
 
-    /** @test */
+    #[TEST]
     public function se_muestra_formulario_de_creacion()
     {
         $response = $this->get(route('alumnos.create'));
@@ -27,7 +28,7 @@ class AlumnoControllerTest extends TestCase
         $response->assertSeeText('Crear Alumno');
     }
 
-    /** @test */
+    #[TEST]
     public function se_muestra_formulario_de_edicion()
     {
         $alumno = Alumno::factory()->create();
@@ -36,7 +37,7 @@ class AlumnoControllerTest extends TestCase
         $response->assertSeeText('Editar Alumno');
     }
 
-    /** @test */
+    #[TEST]
     public function se_muestra_detalle_del_alumno()
     {
         $alumno = Alumno::factory()->create();
@@ -45,7 +46,7 @@ class AlumnoControllerTest extends TestCase
         $response->assertSeeText($alumno->nombre);
     }
 
-    /** @test */
+    #[TEST]
     public function se_puede_crear_un_alumno()
     {
         $data = [
@@ -60,7 +61,7 @@ class AlumnoControllerTest extends TestCase
         $this->assertDatabaseHas('alumnos', ['correo' => 'test@example.com']);
     }
 
-    /** @test */
+    #[TEST]
     public function se_puede_editar_un_alumno()
     {
         $alumno = Alumno::factory()->create();
@@ -76,7 +77,7 @@ class AlumnoControllerTest extends TestCase
         $this->assertDatabaseHas('alumnos', ['correo' => 'editado@example.com']);
     }
 
-    /** @test */
+    #[TEST]
     public function se_puede_eliminar_un_alumno()
     {
         $alumno = Alumno::factory()->create();
