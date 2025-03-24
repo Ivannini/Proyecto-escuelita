@@ -26,7 +26,7 @@ Capturas:
 
 - Lista de alumnos
 
-![image](https://github.com/user-attachments/assets/6675227b-b77f-4ddd-a3f6-af7a72d154af)
+![image](https://github.com/user-attachments/assets/21d7b22b-b2fe-4327-9b18-60ed202b5c88)
 
 ![image](https://github.com/user-attachments/assets/b74b8a05-4e54-4e9c-b160-77fada79b94a)
 
