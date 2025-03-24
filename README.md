@@ -22,7 +22,7 @@ Capturas:
 
 - Screenshot de ejecución de test
 
-![image](https://github.com/user-attachments/assets/88049f2e-3e51-41a3-844d-5c55c48c78bb)
+![image](https://github.com/user-attachments/assets/2394a440-d600-47de-9fca-914234761d19)
 
 - Lista de alumnos
 
